@@ -74,7 +74,7 @@ body
 {
  
   margin-top: -17px;
-  background-image: url("/home/training/workspace/firstwebsite_grid-960/img/hero.jpg");
+  background-image: url("../img/hero.jpg");
  
   
   height:50%;
