@@ -1,0 +1,235 @@
+.header
+{
+	
+background-color: white;
+position: fixed;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 30px;
+height: 50px;
+}
+
+.header1 h1{
+
+	text-align: center;
+	font-family:Courier;
+	color:#b4b2ae;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-top: 15px;
+	border-right: solid;
+border-color: #b4b2ae;
+
+border-width: 2px;
+border-radius: 10px;
+    }
+
+.header1
+{margin-top: -9px;
+
+float: left;
+text-align: center;
+
+
+
+}
+
+.header2
+{
+float: left;
+text-align: right;
+ margin-top: 16px;
+}
+
+.header3
+{
+
+float: left;
+border-left: solid;
+border-color: #b4b2ae;
+border-width: 2px;
+margin-top: 8px;
+
+}
+
+.header2 ul
+{
+	
+list-style: none;
+
+}
+.header2 li
+{
+font-weight: bold;
+color: #b4b2ae;
+display: inline;
+margin-left: 15px;
+margin-right: 20px;
+}
+
+body
+{
+	background-color: #b4b2ae;
+}
+.hero-unit
+{
+ 
+  margin-top: -17px;
+  background-image: url("/home/training/workspace/firstwebsite_grid-960/img/hero.jpg");
+ 
+  
+  height:50%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+a
+{
+	text-decoration: none;
+	color:#b4b2ae; 
+}
+a:hover {
+   
+}
+.icon
+{
+	float:left;
+	color: #b4b2ae;
+	margin-top: 12px;
+	margin-left: 25px;
+
+}
+.icon2
+{
+float:left;
+color: #b4b2ae;
+	margin-top: 12px;
+	margin-left: 20px;
+	
+}
+
+.content
+
+{
+margin-top: 10px;
+	background-color: white;
+}
+
+.content1
+{
+
+margin-top: 4px;
+margin-bottom: 4px;
+	
+}
+.content1 img{
+	-webkit-transition: all 1s ease;
+}
+.content1:hover img{
+	-webkit-transform:scale(1.30);
+}
+
+.content-below
+{
+	
+
+	margin-top: 5px;
+	height: 500px;
+	border-style: solid;
+	border-color: white;
+	background-color: orange;
+	
+	
+}
+
+.content-below2
+{
+	
+
+	background-color: #178a74;
+	height: 100px;
+	border-style: solid;
+	border-color: white;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	
+}
+.footer
+{
+
+ margin-top: 10px;
+  background-color: white;
+  height:16%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+ 
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+.content-below-img
+{
+	margin-top: 90px;
+	
+
+}
+
+h2
+{
+
+background-position:center;
+	background-color: grey;
+	margin-top: 20px;
+	font-style: cursive;
+    color: white;
+	font-size: 60px;
+opacity: 0.8;
+}
+.content-below2 p
+{
+	margin-left: 10px;
+color: white;
+
+}
+
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+   
+   .contact
+   {
+
+	
+	margin-left: 4px;
+	margin-top:4px;
+
+	
+	color:grey;
+	
+   }
+   a:hover
+   {
+background-color:grey;
+   }
+
+  
